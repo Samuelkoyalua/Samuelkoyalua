@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/samuelkoyalua
 [instagram]: https://www.instagram.com/elroi_hearsam
-[linkedin]: https://linkedin.com/in/Samuel Koyalua
+[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/samuel-koyalua-88b9a42aa/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGaq4ZaDYQ2Wy%2Fx%2BRCsM2XQ%3D%3D
