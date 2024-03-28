@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Samthepham
 [instagram]: https://www.instagram.com/elroi_hearsam
-[linkedin]: https://linkedin.com/in/Samuel Koyalua
+[linkedin]: https://linkedin.com/in/SamuelKoyalua
