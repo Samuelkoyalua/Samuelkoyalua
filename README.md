@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/samuelkoyalua
+[twitter]: https://twitter.com/Samthepham
 [instagram]: https://www.instagram.com/elroi_hearsam
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/samuel-koyalua-88b9a42aa/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGaq4ZaDYQ2Wy%2Fx%2BRCsM2XQ%3D%3D
+[linkedin]: https://linkedin.com/in/Samuel Koyalua
